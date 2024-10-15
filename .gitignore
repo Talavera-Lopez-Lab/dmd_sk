@@ -162,6 +162,9 @@ cython_debug/
 #.idea/
 
 *.png
+*.svg
 *.figures
 *data
+*basic_qc
 *label_transfer
+*compositional_analysis
