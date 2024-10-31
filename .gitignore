@@ -167,3 +167,4 @@ cython_debug/
 *.png
 *.h5ad
 *.pt
+*differential_gene_expression
