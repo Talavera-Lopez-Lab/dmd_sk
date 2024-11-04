@@ -168,3 +168,4 @@ cython_debug/
 *basic_qc
 *label_transfer
 *compositional_analysis
+*differential_gene_expression
