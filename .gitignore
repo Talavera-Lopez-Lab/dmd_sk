@@ -169,3 +169,4 @@ cython_debug/
 *label_transfer
 *compositional_analysis
 *differential_gene_expression
+*.csv
