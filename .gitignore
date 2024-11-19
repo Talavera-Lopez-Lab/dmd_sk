@@ -168,3 +168,4 @@ cython_debug/
 *.h5ad
 *.pt
 *differential_gene_expression
+*.csv
